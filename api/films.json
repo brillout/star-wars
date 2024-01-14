@@ -1,8 +1,4 @@
-{
-  "count": 6,
-  "next": null,
-  "previous": null,
-  "results": [
+  [
     {
       "id": 1,
       "title": "A New Hope",
@@ -508,4 +504,3 @@
       "url": "https://swapi.dev/api/films/6/"
     }
   ]
-}
